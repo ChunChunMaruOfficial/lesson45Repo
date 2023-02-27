@@ -6,7 +6,7 @@ using namespace std;
 void rand_init(int* array, int size) {
 	for (int i = 0; i < size; i++)
 	{
-		//array[i] = rand() % 100 - 50;
+		//array[i] = rand() % 100 - 50; //тест связи между git и visual))00)00
 	}
 }
 
@@ -14,8 +14,9 @@ string show(int* array, int size) {
 	string msg = "";
 	for (int i = 0; i < size; i++)
 	{
-		//msg += to_string(array[i]) + " ";
-	}
+		//msg += to_string(array[i]) + " ";  //тест связи между git и visual))00)00
+		//тест связи между git и visual))00)00
+	}   //тест связи между git и visual))00)00
 	return msg;
 }
 
